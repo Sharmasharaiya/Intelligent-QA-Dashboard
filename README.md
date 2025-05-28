@@ -64,8 +64,8 @@ A reusable utility that captures test results from UI and API automation and vis
 - Demonstrates full-stack skills from automation to visualization  
 
 ## 🔗 Call to Action
-👉 **Demo Website**: [Your GitHub Pages Link]  
-🔗 **Connect on LinkedIn**: [Your LinkedIn Profile]  
+👉 **Demo Website**: https://sharmasharaiya.github.io/portfolio/ 
+🔗 **Connect on LinkedIn**: https://www.linkedin.com/in/rahul-sahariya-r-8281aa1b1/
 
 ---
 🎉 *Thank you for visiting this project! Feel free to fork, contribute, or reach out with feedback.*
